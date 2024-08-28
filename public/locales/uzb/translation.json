@@ -1,0 +1,107 @@
+{
+    "menyu_page": {
+        "menyu_text": "Olmaliq Savdo"
+    },
+    "menu_page": {
+        "menyu_katalog": "Katalog"
+    },
+    "meyu_page": {
+        "menyu_inp": "Mahsulot izlash....."
+    },
+    "small_card_father": {
+        "like_text": "Sevimli"
+    },
+    "small_card_father_2": {
+        "like_text": "Taqqos"
+    },
+    "small_card_father_3": {
+        "like_text": "Savat"
+    },
+    "card_img": {
+        "card_img_text": "Telefon va Smartfonlar"
+    },
+    "card_img_2": {
+        "card_img_text": "Orgtexnika va Kompyuterlar"
+    },
+    "card_img_3": {
+        "card_img_text": "Televizor va Videotexnikalar"
+    },
+    "card_img_4": {
+        "card_img_text": "Maishiy texnikalar"
+    },
+    "card_img_5": {
+        "card_img_text": "Avto jihozlar"
+    },
+    "cart_sarlavha": {
+        "band_1": "Brandlar"
+    },
+    "cart_sarlavha_2": {
+        "band_2": "Brandlar"
+    },
+    "cart_sarlavha_3": {
+        "band_1": "Ommabop Mahsulotlar"
+    },
+    "cart_sarlavha_4": {
+        "band_2": "Barcha Mahsulotlar"
+    },
+    "cart_sarlavha_5": {
+        "band_1": "Chegirmadagi Mahsulotlar"
+    },
+    "cart_sarlavha_6": {
+        "band_2": "Barcha Mahsulotlar"
+    },
+    "cart_sarlavha_7": {
+        "band_1": "Qulay Narxlar"
+    },
+    "cart_sarlavha_8": {
+        "band_2": "Barcha Mahsulotlar"
+    },
+    "product_btn": {
+        "savat": "Savatchaga"
+    },
+    "main_watch": {
+        "arzoni_biz": "Bizdan arzonini topsangiz pulingizni qaytaramiz !!!"
+    },
+    "dostavka_texts_1": {
+        "dostavka_text": "Bepul yetkazib berish"
+    },
+    "dostavka_texts_2": {
+        "dostavka_paragraf": "Sizning xotirjamligingiz uchun 3 yilgacha sayt kafolati mavjud."
+    },
+    "dostavka_texts_3": {
+        "dostavka_text": "Bo’lib to’lash "
+    },
+    "dostavka_texts_4": {
+        "dostavka_paragraf": "Katta chegirmalar, bepul yetkazib berish va maxsus yordam mutaxassisi bilan."
+    },
+    "dostavka_texts_5": {
+        "dostavka_text": "1 yil garantiya"
+    },
+    "dostavka_texts_6": {
+        "dostavka_paragraf": "Yangi mahsulotlarga 70% gacha chegirma, siz eng yaxshi narxga amin bo'lishingiz mumkin."
+    },
+    "dostavka_texts_7": {
+        "dostavka_text": "Qo’llab quvatlash xizmati"
+    },
+    "dostavka_texts_8": {
+        "dostavka_paragraf": "Yangi mahsulotlarga 70% gacha chegirma, siz eng yaxshi narxga amin bo'lishingiz mumkin."
+    },
+    "cart_sarlavha_9": {
+        "band_2": "So`ngi Ko`rilganlar"
+    },
+    "cart_sarlavha_10": {
+        "band_2": "Barcha mahsulotlar"
+    },
+    "left_text": {
+        "qolash_text": "Qo’llab quvatlash xizmati"
+    },
+    "tel_number": {
+        "number": "09:00 - 20:00 (Har kuni)"
+    },
+    "right_text": {
+        "olmaliq_text": "Olmaliq Savdo"
+    },
+    "right_text_2": {
+        "olmaliq_paragraf": "Olmaliq shahar, Kamalak tumani . Amir Temur ko’chasi 29-a uy"
+    }
+}

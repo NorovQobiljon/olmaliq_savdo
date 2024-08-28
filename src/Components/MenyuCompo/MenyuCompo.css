@@ -1,0 +1,96 @@
+.contener {
+    width: 1120px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.menyu_page {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.menyu_text {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 27px;
+    text-decoration-line: underline;
+    cursor: pointer;
+}
+
+.menyu_katalog {
+    width: 158px;
+    height: 40px;
+    border: none;
+    background-color: #2DA55F;
+    border-radius: 5px;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 23.46px;
+}
+
+.fa-bars {
+    padding-right: 10px;
+}
+
+.fa-angle-right {
+    padding-left: 10px;
+}
+
+.menyu_inp {
+    width: 460px;
+    height: 40px;
+    border: 2px solid #2DA55F;
+    padding-left: 10px;
+    border-radius: 5px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19.32px;
+    outline: none;
+    color: #444444;
+}
+
+.like_text {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.32px;
+    color: #444444;
+}
+
+.small_card_father {
+    text-align: center;
+}
+
+.fa-regular {
+    color: #444444;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.fa-down-left-and-up-right-to-center {
+    color: #444444;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.fa-cart-shopping {
+    color: #444444;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.menyu_exit {
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #2DA55F;
+    color: #ffffff;
+}

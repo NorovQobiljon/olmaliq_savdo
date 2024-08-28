@@ -1,0 +1,107 @@
+{
+    "menyu_page": {
+        "menyu_text": "Almalyk Trade"
+    },
+    "menu_page": {
+        "menyu_katalog": "Catalog"
+    },
+    "meyu_page": {
+        "menyu_inp": "Product Search....."
+    },
+    "small_card_father": {
+        "like_text": "Beloved"
+    },
+    "small_card_father_2": {
+        "like_text": "Comparison"
+    },
+    "small_card_father_3": {
+        "like_text": "Basket"
+    },
+    "card_img": {
+        "card_img_text": "Telephone and Smartphones"
+    },
+    "card_img_2": {
+        "card_img_text": "Engineering Computers"
+    },
+    "card_img_3": {
+        "card_img_text": "Television and Video Equipment"
+    },
+    "card_img_4": {
+        "card_img_text": "Household appliances"
+    },
+    "card_img_5": {
+        "card_img_text": "Auto equipment"
+    },
+    "cart_sarlavha": {
+        "band_1": "Clauses"
+    },
+    "cart_sarlavha_2": {
+        "band_2": "Clauses"
+    },
+    "cart_sarlavha_3": {
+        "band_1": "Popular products"
+    },
+    "cart_sarlavha_4": {
+        "band_2": "All products"
+    },
+    "cart_sarlavha_5": {
+        "band_1": "Discount products"
+    },
+    "cart_sarlavha_6": {
+        "band_2": "All products"
+    },
+    "cart_sarlavha_7": {
+        "band_1": "Affordable prices"
+    },
+    "cart_sarlavha_8": {
+        "band_2": "All products"
+    },
+    "product_btn": {
+        "savat": "To the basket"
+    },
+    "main_watch": {
+        "arzoni_biz": "If you find a cheaper one from us, we will refund your money!!!"
+    },
+    "dostavka_texts_1": {
+        "dostavka_text": "Free shipping"
+    },
+    "dostavka_texts_2": {
+        "dostavka_paragraf": "Up to 3 years on-site warranty available for your peace of mind."
+    },
+    "dostavka_texts_3": {
+        "dostavka_text": "Pay in installments"
+    },
+    "dostavka_texts_4": {
+        "dostavka_paragraf": "With big discounts, free delivery and a dedicated support specialist."
+    },
+    "dostavka_texts_5": {
+        "dostavka_text": "1 year warranty"
+    },
+    "dostavka_texts_6": {
+        "dostavka_paragraf": "Up to 70% off new Products, you can be sure of the best price."
+    },
+    "dostavka_texts_7": {
+        "dostavka_text": "Support service"
+    },
+    "dostavka_texts_8": {
+        "dostavka_paragraf": "Up to 70% off new Products, you can be sure of the best price."
+    },
+    "cart_sarlavha_9": {
+        "band_2": "Last seen"
+    },
+    "cart_sarlavha_10": {
+        "band_2": "All products"
+    },
+    "left_text": {
+        "qolash_text": "Support Service"
+    },
+    "tel_number": {
+        "number": "09:00 - 20:00 (Every day)"
+    },
+    "right_text": {
+        "olmaliq_text": "Almalyk Trade"
+    },
+    "right_text_2": {
+        "olmaliq_paragraf": "Almalyk city, Kamalak district . Amir Temur street 29-a"
+    }
+}

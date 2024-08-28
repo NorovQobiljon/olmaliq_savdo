@@ -1,0 +1,107 @@
+{
+    "menyu_page": {
+        "menyu_text": "Алмалик Трейд"
+    },
+    "menu_page": {
+        "menyu_katalog": "Каталог"
+    },
+    "meyu_page": {
+        "menyu_inp": "Поиск продукта....."
+    },
+    "small_card_father": {
+        "like_text": "Возлюбленный"
+    },
+    "small_card_father_2": {
+        "like_text": "Сравнение"
+    },
+    "small_card_father_3": {
+        "like_text": "Корзина"
+    },
+    "card_img": {
+        "card_img_text": "Телефон и смартфоны"
+    },
+    "card_img_2": {
+        "card_img_text": "Офисная инженерия и Компьютеры"
+    },
+    "card_img_3": {
+        "card_img_text": "Телевизионное и видео оборудование"
+    },
+    "card_img_4": {
+        "card_img_text": "Бытовая техника"
+    },
+    "card_img_5": {
+        "card_img_text": "Автотехника"
+    },
+    "cart_sarlavha": {
+        "band_1": "Положения"
+    },
+    "cart_sarlavha_2": {
+        "band_2": "Положения"
+    },
+    "cart_sarlavha_3": {
+        "band_1": "Популярные продукты"
+    },
+    "cart_sarlavha_4": {
+        "band_2": "Все продукты"
+    },
+    "cart_sarlavha_5": {
+        "band_1": "Товары со скидкой"
+    },
+    "cart_sarlavha_6": {
+        "band_2": "Все продукты"
+    },
+    "cart_sarlavha_7": {
+        "band_1": "Доступные цены"
+    },
+    "cart_sarlavha_8": {
+        "band_2": "Все продукты"
+    },
+    "product_btn": {
+        "savat": "В корзину"
+    },
+    "main_watch" : {
+        "arzoni_biz" : "Если вы найдете у нас дешевле, мы вернем вам деньги!!!"
+    },
+    "dostavka_texts_1" : {
+        "dostavka_text" : "Бесплатная доставка"
+    },
+    "dostavka_texts_2" : {
+        "dostavka_paragraf" : "Для вашего спокойствия предоставляется гарантия до 3 лет с выездом на место."
+    },
+    "dostavka_texts_3" : {
+        "dostavka_text" : "Оплата в рассрочку"
+    },
+    "dostavka_texts_4" : {
+        "dostavka_paragraf" : "С большими скидками, бесплатной доставкой и выделенным специалистом поддержки."
+    },
+    "dostavka_texts_5" : {
+        "dostavka_text" : "1 год гарантия"
+    },
+    "dostavka_texts_6" : {
+        "dostavka_paragraf" : "Скидки до 70% на новые товары, вы можете быть уверены в лучшей цене."
+    },
+    "dostavka_texts_7" : {
+        "dostavka_text" : "Служба поддержки"
+    },
+    "dostavka_texts_8" : {
+        "dostavka_paragraf" : "Скидки до 70% на новые товары, вы можете быть уверены в лучшей цене."
+    },
+    "cart_sarlavha_9": {
+        "band_2": "Последний раз видели"
+    },
+    "cart_sarlavha_10": {
+        "band_2": "Все продукты"
+    },
+    "left_text": {
+        "qolash_text": "Служба поддержки"
+    },
+    "tel_number": {
+        "number": "09:00 - 20:00 (Каждый день)"
+    },
+    "right_text": {
+        "olmaliq_text": "Алмалык Трейд"
+    },
+    "right_text_2": {
+        "olmaliq_paragraf": "Город Алмалик, Камалакский район . улица Амира Темура 29-а"
+    }
+}
