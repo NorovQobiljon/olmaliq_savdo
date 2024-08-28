@@ -37,3 +37,13 @@
 .fa-caret-down{
     color: #FFFFFF;
 }
+select{
+    width: 90px;
+    height: 20px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #2DA55F;
+    background-color: #FFFFFF;
+    font-family: Montserrat;
+}
